@@ -1,0 +1,31 @@
+body{
+  background-color: #000000
+}
+.megaContainer{
+  flex-flow:row wrap;
+  justify-content: space-around;
+  align-items: space-between;
+  justify-content:center;
+  left:5%;
+  position:relative;
+}
+.flex-container1 {
+
+ display: flex;
+ flex-flow:column wrap;
+ justify-content:center;
+ align-items: center;
+ width: 30%;
+ display: inline-block;
+}
+.imagen1{
+  width: auto;
+  height: auto;
+  }
+
+
+h1{
+margin: 25px 50px 75px;
+  text-align: center;
+  color: white;
+}
